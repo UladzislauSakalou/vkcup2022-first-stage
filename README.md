@@ -1,0 +1,1 @@
+# vkcup2022-first-stage
