@@ -34,3 +34,4 @@ https://cups.online/ru/workareas/VKCup2022/755/1417
 * [Приложенный Jupyter Notebook](vk-cup-1-nlp.ipynb)
 * [Ссылка на Kaggle Notebook](https://www.kaggle.com/code/fanipolsky/vk-cup-1-nlp)
 * [ссылка на топ-1 Решение](https://github.com/e0xextazy/vkcup2022-first-stage/blob/main/EDA.ipynb)
+* [Разбор от участников](https://vk.com/@cup-razbor-zadach-kvalifikacii-ml)
